@@ -8,7 +8,9 @@ public class AlstomBankAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AlstomBankAppApplication.class, args);
-		System.out.println("alstom app not created");
+		System.out.println("alstom app not but created");
+		System.out.println("alstom app not but again created");
+
 		
 	}
 
