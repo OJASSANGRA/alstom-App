@@ -8,7 +8,8 @@ public class AlstomBankAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AlstomBankAppApplication.class, args);
-		System.out.println("alstom app created");
+		System.out.println("alstom app not created");
+		
 	}
 
 }
